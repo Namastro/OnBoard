@@ -1,7 +1,7 @@
 ---
-name: "Dibash Gupta"
-slack_handle: "Dibash Gupta"
-github_handle: "Namastro"
+name: ""
+slack_handle: ""
+github_handle: ""
 project: "Neo Pixel Matrix Display"
 ---
 
